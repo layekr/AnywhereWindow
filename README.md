@@ -26,9 +26,17 @@ A portal to explore.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+![home](https://github.com/layekr/AnywhereWindow/assets/104840689/46008215-cd80-4415-9ddc-c6e4e40281a7)
+![gallery](https://github.com/layekr/AnywhereWindow/assets/104840689/5c3391b6-1e0a-4b17-97f5-dbfaca341a66)
+![packages](https://github.com/layekr/AnywhereWindow/assets/104840689/d246aa7d-8cb0-4f90-b608-876c9d660216)
+![login](https://github.com/layekr/AnywhereWindow/assets/104840689/45ea6e9d-774d-494b-9195-d17c15523ffb)
+![registratin](https://github.com/layekr/AnywhereWindow/assets/104840689/3bf950d1-e6e9-4ddc-8fca-e04e692892bd)
 ![booking](https://github.com/layekr/AnywhereWindow/assets/104840689/e886cdff-01fa-42f4-a88e-4ce662f3b23b)
-
-
+![confirm](https://github.com/layekr/AnywhereWindow/assets/104840689/c140b6f5-d8c6-4a57-8231-f03d1cbd747f)
+![pdf](https://github.com/layekr/AnywhereWindow/assets/104840689/e440fa2f-bf64-403b-95e1-8e117038431a)
+![db1](https://github.com/layekr/AnywhereWindow/assets/104840689/aa6663f4-ab59-48d5-9bb9-be9719934588)
+![db2](https://github.com/layekr/AnywhereWindow/assets/104840689/795f7e9a-103b-4713-a9a1-7520a823257d)
+![db3](https://github.com/layekr/AnywhereWindow/assets/104840689/84eccbc9-91f5-4db3-badf-1ac3276924e5)
 
 ### Built With
 
