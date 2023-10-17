@@ -61,15 +61,15 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 1. Start XAMPP and open phpMyAdmin on browser.
-2. Copy the database file and paste it on the console and press Ctrl + Enter.
-3. Database file [Database](https://github.com/layekr/AnywhereWindow/database/anywherewindow.sql)
-4. Clone the repository in any folder and name folder as per choice.
+2. Create a database 'anywherewindow' and import the database file.
+4. Database file [Database](https://github.com/layekr/AnywhereWindow/database/anywherewindow.sql)
+5. Clone the repository in any folder and name folder as per choice.
     ```
     git clone git@github.com:layekr/AnywhereWindow.git your-folder-name
     ```
-5. Start XAMPP servers - Apache and MySQL
-6. Start PHP development server (at port of your choice) in Folder Directory via command line
+6. Start XAMPP servers - Apache and MySQL
+7. Start PHP development server (at port of your choice) in Folder Directory via command line
    ```
     php -S localhost:5000
    ```
-7. Navigate to http://localhost:5000
+8. Navigate to http://localhost:5000
